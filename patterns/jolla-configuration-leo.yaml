@@ -1,0 +1,6 @@
+Description: Pattern with packages for leo configurations
+Name: jolla-configuration-leo
+Requires:
+- patterns-sailfish-device-configuration-leo
+
+Summary: Jolla Configuration leo
